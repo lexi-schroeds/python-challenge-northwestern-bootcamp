@@ -4,6 +4,7 @@ Uploaded all Module 3 Class activities for future reference including
   Module 3 - Python - Class 3, includes functions, comprehensions, and dictionaries
 
 Submission for Module 3 Challenge
+Sources: Used support from Tutor, edX Learning Assistant, and ChatGPT to complete assignment
   Correctly Reads in the CSV (10 points)
     Reads in the CSVs for both PyBank and PyPoll using Python (5 points)
       PyBank & PyPoll: Find in rows 5, 16-17
